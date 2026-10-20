@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+.omx/
+__pycache__/
+.venv/
